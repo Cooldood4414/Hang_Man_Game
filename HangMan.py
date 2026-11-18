@@ -20,3 +20,4 @@ if secret_w_n >= total_char:
 
 if lives == 0:
     print('The answer was:',secret_w)
+    print('Guesser loses')
